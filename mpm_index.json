@@ -1,4 +1,6 @@
 [
   "txlyre/mbase64",
-  "txlyre/mjson"
+  "txlyre/mjson",
+  "txlyre/toBase",
+  "txlyre/encodeURL"
 ]
