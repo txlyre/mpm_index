@@ -1,4 +1,5 @@
 [
+  "txlyre/mpack",
   "txlyre/mbase64",
   "txlyre/mjson",
   "txlyre/toBase",
