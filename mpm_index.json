@@ -3,5 +3,6 @@
   "txlyre/mbase64",
   "txlyre/mjson",
   "txlyre/toBase",
-  "txlyre/encodeURL"
+  "txlyre/encodeURL",
+  "txlyre/nicerequests"
 ]
